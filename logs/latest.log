@@ -1,0 +1,282 @@
+[11:17:00] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[11:17:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:17:05] [ServerMain/INFO]: Loaded 1370 recipes
+[11:17:05] [ServerMain/INFO]: Loaded 1481 advancements
+[11:17:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:17:05] [Server thread/INFO]: Loading properties
+[11:17:05] [Server thread/INFO]: Default game type: SURVIVAL
+[11:17:05] [Server thread/INFO]: Generating keypair
+[11:17:05] [Server thread/INFO]: Starting Minecraft server on 172.28.169.36:25565
+[11:17:05] [Server thread/INFO]: Using default channel type
+[11:17:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:17:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:17:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:17:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:17:05] [Server thread/INFO]: Preparing level "world"
+[11:17:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:17:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:17:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:17:06] [Server thread/INFO]: Time elapsed: 751 ms
+[11:17:06] [Server thread/INFO]: Done (1.057s)! For help, type "help"
+[11:17:22] [Server thread/INFO]: heaven[/172.28.90.214:53125] logged in with entity id 44 at (93.65064390841678, 63.0, -416.63585169108035)
+[11:17:22] [Server thread/INFO]: heaven joined the game
+[11:17:56] [Server thread/INFO]: Suela[/172.28.169.36:63362] logged in with entity id 390 at (153.5002649530032, 121.0, -468.70564318855264)
+[11:17:56] [Server thread/INFO]: Suela joined the game
+[11:19:41] [Server thread/INFO]: Made heaven a server operator
+[11:19:46] [Server thread/INFO]: [Not Secure] <heaven> foi
+[11:20:03] [Server thread/INFO]: [heaven: Set the weather to rain & thunder]
+[11:20:24] [Server thread/INFO]: [Not Secure] <heaven> insta
+[11:20:33] [Server thread/INFO]: Made Suela a server operator
+[11:20:57] [Server thread/INFO]: [heaven: Applied 1.0 damage to Suela]
+[11:21:00] [Server thread/INFO]: [Suela: Set own game mode to Creative Mode]
+[11:21:01] [Server thread/INFO]: [Not Secure] <heaven> KKKKKKKKKKKKKKKKKKKKKK
+[11:21:10] [Server thread/INFO]: [Not Secure] <heaven> agora da pra ver
+[11:21:17] [Server thread/INFO]: [heaven: Set own game mode to Creative Mode]
+[11:21:30] [Server thread/INFO]: [heaven: Set own game mode to Survival Mode]
+[11:21:48] [Server thread/INFO]: [Not Secure] <Suela> outr nivel
+[11:21:52] [Server thread/INFO]: [Not Secure] <heaven> muito pica
+[11:21:53] [Server thread/INFO]: [Not Secure] <Suela> de gameplay
+[11:22:03] [Server thread/INFO]: [Not Secure] <heaven> caralho
+[11:22:05] [Server thread/INFO]: [Suela: Set own game mode to Survival Mode]
+[11:22:06] [Server thread/INFO]: [Not Secure] <heaven> tava sem asa
+[11:22:10] [Server thread/INFO]: [Not Secure] <Suela> kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[11:22:32] [Server thread/INFO]: [Not Secure] <heaven> tem como colocar unbreaking 3 na asa
+[11:22:33] [Server thread/INFO]: [Not Secure] <heaven> n sabia
+[11:22:43] [Server thread/INFO]: [Not Secure] <heaven> depois tem que encantar elas
+[11:23:00] [Server thread/INFO]: [Not Secure] <Suela> vou vazar aq mas vou deixar ligado
+[11:23:02] [Server thread/INFO]: [Not Secure] <heaven> jae
+[11:23:05] [Server thread/INFO]: Suela lost connection: Disconnected
+[11:23:05] [Server thread/INFO]: Suela left the game
+[11:28:52] [Server thread/INFO]: heaven lost connection: Disconnected
+[11:28:52] [Server thread/INFO]: heaven left the game
+[11:29:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:30:22] [Server thread/INFO]: heaven[/172.28.90.214:53768] logged in with entity id 3407 at (63.05361599686394, 63.0, -425.46124686519823)
+[11:30:22] [Server thread/INFO]: heaven joined the game
+[11:30:58] [Server thread/INFO]: heaven lost connection: Disconnected
+[11:30:58] [Server thread/INFO]: heaven left the game
+[11:31:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:01:46] [Server thread/INFO]: heaven[/172.28.90.214:55550] logged in with entity id 3729 at (89.29999779749492, 63.0, -413.00052362250534)
+[12:01:46] [Server thread/INFO]: heaven joined the game
+[12:04:25] [Server thread/INFO]: heaven lost connection: Disconnected
+[12:04:25] [Server thread/INFO]: heaven left the game
+[12:05:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:08:43] [Server thread/INFO]: heaven[/172.28.90.214:55932] logged in with entity id 4730 at (89.1649515946173, 63.0, -414.25621616083686)
+[12:08:43] [Server thread/INFO]: heaven joined the game
+[12:19:47] [Server thread/INFO]: heaven lost connection: Disconnected
+[12:19:47] [Server thread/INFO]: heaven left the game
+[12:20:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:58:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:58:57] [Server thread/INFO]: ha<--[HERE]
+[12:59:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:59:00] [Server thread/INFO]: HAHAHAH<--[HERE]
+[13:07:38] [Server thread/INFO]: [Not Secure] [Server] HAHAHAHAHA
+[13:08:23] [Server thread/INFO]: Suela[/172.28.169.36:56849] logged in with entity id 11337 at (160.69999998807907, 121.0, -463.49253842546506)
+[13:08:23] [Server thread/INFO]: Suela joined the game
+[13:08:39] [Server thread/INFO]: [Not Secure] [Server] HAHAHAHAHAHAHA
+[13:08:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:08:54] [Server thread/INFO]: broadcast HAHAHAHAHAH<--[HERE]
+[13:09:15] [Server thread/INFO]: Suela lost connection: Disconnected
+[13:09:15] [Server thread/INFO]: Suela left the game
+[13:10:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:16:52] [Server thread/INFO]: heaven[/172.28.90.214:59523] logged in with entity id 11702 at (89.2044807393324, 68.0, -416.26411697819486)
+[13:16:52] [Server thread/INFO]: heaven joined the game
+[13:37:26] [Server thread/INFO]: [Not Secure] [Server] HAHAHAHAHAHAHA
+[13:37:31] [Server thread/INFO]: [Not Secure] <heaven> kkkkkkkkkkkkkkkkkkkkkkkk
+[13:37:42] [Server thread/INFO]: [Not Secure] [Server] OMINUS CRIPULUS
+[13:39:08] [Server thread/INFO]: [Not Secure] <heaven> consegue ler?
+[14:02:20] [Server thread/INFO]: [Not Secure] [Server] sim
+[14:02:31] [Server thread/INFO]: [Not Secure] [Server] todos os dados eu tenho controle
+[14:02:38] [Server thread/INFO]: [Not Secure] [Server] master admin
+[14:02:43] [Server thread/INFO]: [Not Secure] <heaven> sex
+[14:03:20] [Server thread/INFO]: [Not Secure] <heaven> tem como pintar shulker
+[14:03:23] [Server thread/INFO]: [Not Secure] <heaven> pra diferenciar
+[14:03:47] [Server thread/INFO]: [Not Secure] [Server] eu tenho 1 so
+[14:03:51] [Server thread/INFO]: [Not Secure] [Server] rosa
+[14:03:58] [Server thread/INFO]: [Not Secure] <heaven> acabei de ir farmar lá no end
+[14:04:03] [Server thread/INFO]: [Not Secure] <heaven> navegando o mundo no CHEIRO
+[14:04:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:04:08] [Server thread/INFO]: kkkkkkkkkkkkkkkkkkkk<--[HERE]
+[14:04:13] [Server thread/INFO]: [Not Secure] [Server] kkkkkkkkkkkkkkkkkkkkk
+[14:04:21] [Server thread/INFO]: [Not Secure] <heaven> to com 4 feitas aqui
+[14:04:24] [Server thread/INFO]: [Not Secure] <heaven> 3 comigo
+[14:04:38] [Server thread/INFO]: [Not Secure] <heaven> CHAPANDO um de fogos
+[14:04:47] [Server thread/INFO]: [Not Secure] <heaven> e os outros 2 fica pra material
+[14:04:51] [Server thread/INFO]: [Not Secure] <heaven> projetinho...
+[14:14:52] [Server thread/INFO]: frajo[/172.28.97.165:59314] logged in with entity id 31962 at (171.1491467765933, 94.0, -442.7668879480973)
+[14:14:52] [Server thread/INFO]: frajo joined the game
+[14:19:55] [Server thread/INFO]: [Not Secure] [Server] FRAJO, SUCUMBA IMEDIATAMENTE
+[14:20:23] [Server thread/INFO]: [Not Secure] <heaven> deepslatebrickstoneposse
+[14:20:36] [Server thread/INFO]: [Not Secure] [Server] ta no projetinho da casa do mago lenon?
+[14:20:42] [Server thread/INFO]: [Not Secure] <heaven> ainda n
+[14:21:32] [Server thread/INFO]: Made frajo a server operator
+[14:23:48] [Server thread/INFO]: [heaven: Set own game mode to Creative Mode]
+[14:23:52] [Server thread/INFO]: [heaven: Set own game mode to Survival Mode]
+[14:24:33] [Server thread/INFO]: [Not Secure] [Server] sem criativo
+[14:24:38] [Server thread/INFO]: [Not Secure] [Server] eu recebo alerta
+[14:24:39] [Server thread/INFO]: [Not Secure] <heaven> tava mostrando pra ele que da pra ver agora
+[14:24:43] [Server thread/INFO]: [Not Secure] [Server] kkkkkkkkkkkkkkkkkkk
+[14:24:58] [Server thread/INFO]: [Not Secure] <frajo> agr servidor é auditado
+[14:25:03] [Server thread/INFO]: [Not Secure] [Server] sim
+[14:25:12] [Server thread/INFO]: [Not Secure] <heaven> servidor impresso
+[14:26:46] [Server thread/INFO]: [Not Secure] <heaven> a casa do mago vai sair no olho tá
+[14:26:47] [Server thread/INFO]: [Not Secure] <heaven> sem mod
+[14:28:42] [Server thread/INFO]: [Not Secure] [Server] bala neles
+[14:29:03] [Server thread/INFO]: [Not Secure] [Server] o foda é saber a altura correta
+[14:29:10] [Server thread/INFO]: [Not Secure] [Server] e a grossura
+[14:29:23] [Server thread/INFO]: [Not Secure] <heaven> geometrias
+[14:31:15] [Server thread/INFO]: Named entity che['jonson'/12, l='ServerLevel[server 2]', x=93.14, y=63.00, z=-410.93] died: jonson was slain by frajo
+[14:31:54] [Server thread/INFO]: [Not Secure] [Server] MANO
+[14:32:02] [Server thread/INFO]: [Not Secure] [Server] O JOAO MATOU O JONSON
+[14:32:18] [Server thread/INFO]: [Not Secure] <heaven> barra kill nele
+[14:32:26] [Server thread/INFO]: frajo was killed
+[14:32:26] [Server thread/INFO]: Killed frajo
+[14:32:34] [Server thread/INFO]: [Not Secure] <heaven> punição divina
+[14:35:05] [Server thread/INFO]: [Not Secure] [Server] frajo alguma explicação?
+[14:35:09] [Server thread/INFO]: [Not Secure] <heaven> acabou de falar aqui
+[14:35:17] [Server thread/INFO]: [Not Secure] <heaven> que foi comprimentar com a espada na mao
+[14:35:22] [Server thread/INFO]: [Not Secure] [Server] KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[14:35:28] [Server thread/INFO]: [Not Secure] [Server] porra mano logo o jonson
+[14:35:32] [Server thread/INFO]: [Not Secure] <frajo> eu fui comprimtar o johnson
+[14:35:38] [Server thread/INFO]: [Not Secure] <frajo> com a espada na mão
+[14:35:55] [Server thread/INFO]: [Not Secure] <frajo> baixa o mosntro que renasce
+[14:36:18] [Server thread/INFO]: [Not Secure] <frajo> vamo fazer o ritual p invocar ele
+[14:37:16] [Server thread/INFO]: [Not Secure] [Server] leno
+[14:37:22] [Server thread/INFO]: [Not Secure] <heaven> oi
+[14:37:27] [Server thread/INFO]: [Not Secure] [Server] fica dentro da casa do mago e me passa as coordenadas
+[14:37:33] [Server thread/INFO]: [Not Secure] [Server] pra eu summonar uma galinha
+[14:38:09] [Server thread/INFO]: [Not Secure] [Server] tem que ser sumonada pq so assim faz sentido o reviver do jonson
+[14:38:09] [Server thread/INFO]: [Not Secure] <heaven> x 91,995 y 63 z -414,024
+[14:38:44] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[14:38:44] [Server thread/INFO]: ...95 63 -414,024<--[HERE]
+[14:39:23] [Server thread/INFO]: Summoned new Chicken
+[14:39:30] [Server thread/INFO]: [Not Secure] [Server] ve ai
+[14:39:36] [Server thread/INFO]: [Not Secure] <frajo> funciono
+[14:42:55] [Server thread/INFO]: frajo lost connection: Disconnected
+[14:42:55] [Server thread/INFO]: frajo left the game
+[15:03:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=83, y=68, z=753} ji{x=81, y=66, z=745}
+[15:03:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=83, y=68, z=753} ji{x=81, y=66, z=745}
+[15:03:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=83, y=68, z=753} ji{x=81, y=66, z=745}
+[15:03:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=80, y=65, z=746} ji{x=80, y=66, z=747}
+[15:03:54] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=80, y=65, z=746} ji{x=80, y=66, z=747}
+[15:03:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=79, y=65, z=746} ji{x=79, y=64, z=745}
+[15:06:52] [Server thread/WARN]: Failed to save player data for heaven
+[15:06:52] [IO-Worker-172/ERROR]: Could not save data to raids.dat
+java.nio.file.NoSuchFileException: .\world\data\raids.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ud.a(SourceFile:71) ~[server-1.21.4.jar:?]
+	at eva.a(SourceFile:180) ~[server-1.21.4.jar:?]
+	at eva.b(SourceFile:161) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:06:52] [IO-Worker-174/ERROR]: Could not save data to random_sequences.dat
+java.nio.file.NoSuchFileException: .\world\data\random_sequences.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ud.a(SourceFile:71) ~[server-1.21.4.jar:?]
+	at eva.a(SourceFile:180) ~[server-1.21.4.jar:?]
+	at eva.b(SourceFile:161) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:06:52] [IO-Worker-179/ERROR]: Could not save data to raids.dat
+java.nio.file.NoSuchFileException: .\world\DIM-1\data\raids.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ud.a(SourceFile:71) ~[server-1.21.4.jar:?]
+	at eva.a(SourceFile:180) ~[server-1.21.4.jar:?]
+	at eva.b(SourceFile:161) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:06:52] [IO-Worker-176/ERROR]: Could not save data to raids_end.dat
+java.nio.file.NoSuchFileException: .\world\DIM1\data\raids_end.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ud.a(SourceFile:71) ~[server-1.21.4.jar:?]
+	at eva.a(SourceFile:180) ~[server-1.21.4.jar:?]
+	at eva.b(SourceFile:161) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:07:11] [Server thread/INFO]: [Not Secure] [Server] lenon vou restartar o server rapidao
+[15:07:14] [Server thread/INFO]: [Not Secure] <heaven> jae
+[15:07:17] [Server thread/INFO]: heaven lost connection: Disconnected
+[15:07:17] [Server thread/INFO]: heaven left the game
+[15:07:17] [Server thread/WARN]: Failed to save player data for heaven
+[15:07:20] [Server thread/INFO]: Stopping server
+[15:07:20] [Server thread/INFO]: Saving players
+[15:07:20] [Server thread/INFO]: Saving worlds
+[15:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server 2]'/minecraft:overworld
+[15:07:20] [IO-Worker-177/ERROR]: Could not save data to raids.dat
+java.nio.file.NoSuchFileException: .\world\data\raids.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ud.a(SourceFile:71) ~[server-1.21.4.jar:?]
+	at eva.a(SourceFile:180) ~[server-1.21.4.jar:?]
+	at eva.b(SourceFile:161) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server 2]'/minecraft:the_nether
+[15:07:20] [IO-Worker-177/ERROR]: Could not save data to raids.dat
+java.nio.file.NoSuchFileException: .\world\DIM-1\data\raids.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ud.a(SourceFile:71) ~[server-1.21.4.jar:?]
+	at eva.a(SourceFile:180) ~[server-1.21.4.jar:?]
+	at eva.b(SourceFile:161) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[server 2]'/minecraft:the_end
+[15:07:20] [IO-Worker-177/ERROR]: Could not save data to raids_end.dat
+java.nio.file.NoSuchFileException: .\world\DIM1\data\raids_end.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at ud.a(SourceFile:71) ~[server-1.21.4.jar:?]
+	at eva.a(SourceFile:180) ~[server-1.21.4.jar:?]
+	at eva.b(SourceFile:161) ~[server-1.21.4.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

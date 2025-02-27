@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "e5a236ed-48fc-3c73-b45b-1ca7d29cad8c",
+    "name": "Suela",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fd069261-ff19-3886-8b7f-84567829dfd8",
+    "name": "heaven",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "da300141-c2ed-3f2b-9b5e-f5aae69d2929",
+    "name": "frajo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
